@@ -54,7 +54,7 @@ $login2 = '';
 <body>
 <h2>Форма для Авторизацыии участников</h2>
 <form action="<?=$_SERVER['PHP_SELF']?>" method="post">
-Имя</br>
+<br>Имя</br><br>
 <input type="text" name="login2" value="Введите Ваше имя"></input>
 <br></br>    
 Пароль<br></br>
